@@ -14,12 +14,12 @@
     "events": [
         {
             "createdBy": "1",
-            "title": "5th Anniversary Trampoline party",
+            "title": "5th Anniversary: Trampoline party",
             "description": "Celebrate half a decade of fun with us! All ages welcome",
             "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
             "categoryIds": [
-                2,
-                3
+                1,
+                2
             ],
             "location": "Jump City",
             "startTime": "2025-05-04T10:00",
@@ -33,6 +33,7 @@
             "description": "Enhance your inner radiance & absolute tranquility",
             "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
             "categoryIds": [
+                1,
                 3
             ],
             "location": "Drakkensburg Hills Resort",
@@ -42,8 +43,8 @@
         {
             "id": "49dc",
             "categoryIds": [
-                1,
-                3
+                4,
+                8
             ],
             "startTime": "2025-01-11T10:30",
             "location": "Ricky's garage",
@@ -56,8 +57,8 @@
         {
             "id": "a6ba",
             "categoryIds": [
-                3,
-                2
+                4,
+                8
             ],
             "createdBy": "1",
             "title": "Animation basics",
@@ -74,7 +75,8 @@
             "description": "Learn the techniques of SPX makeup",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s8DzcVTEKZJbVEwYkTh6-6lONrHn0j6odg&s",
             "categoryIds": [
-                1
+                4,
+                8
             ],
             "location": "Makeup Mistress",
             "startTime": "2025-10-04T12:00",
@@ -84,33 +86,35 @@
             "id": "78b6",
             "createdBy": "1",
             "title": "Building your own fort",
-            "description": "Brick by boring brick, we'll teach you the tricks to tackling your goals! Join our Ted Talk",
+            "description": "Brick by boring brick, we'll teach you the tricks to tackling your goals!",
             "image": "https://wallpapercave.com/wp/wp2415826.jpg",
             "categoryIds": [
-                2
+                5
             ],
             "location": "The Burton Hall",
             "startTime": "2024-08-23T18:30",
-            "endTime": "2024-09-23T20:00"
+            "endTime": "2024-08-23T20:00"
         },
         {
             "id": "06dd",
             "categoryIds": [
-                1
+                1,
+                4,
+                7,
+                8
             ],
             "createdBy": "1",
             "title": "Two to Tango",
             "description": "It takes two, so bring a friend and dance with us!",
             "image": "https://www.danceflavors.com/wp-content/uploads/2022/09/tango-pair-dancers-dance-in-ballroom-2022-09-07-16-01-27-utc-scaled.jpg",
             "location": "Hilton's School of Dance",
-            "startTime": "2024-03-14T19:00",
+            "startTime": "2024-03-14T18:00",
             "endTime": "2024-03-14T22:30"
         },
         {
             "id": "b0e5",
             "categoryIds": [
-                1,
-                2
+                5
             ],
             "createdBy": "2",
             "title": "The Truth About Gelatine",
@@ -123,7 +127,8 @@
         {
             "id": "f046",
             "categoryIds": [
-                2
+                3,
+                4
             ],
             "createdBy": "1",
             "title": "Dinner At Ate",
@@ -136,7 +141,8 @@
         {
             "id": "1e10",
             "categoryIds": [
-                1
+                6,
+                7
             ],
             "createdBy": "1",
             "title": "Marshmallows in March",
@@ -149,7 +155,8 @@
         {
             "id": "d72c",
             "categoryIds": [
-                2
+                4,
+                8
             ],
             "createdBy": "2",
             "title": "3D Printing - the basics",
@@ -162,7 +169,8 @@
         {
             "id": "63cf",
             "categoryIds": [
-                3
+                6,
+                8
             ],
             "createdBy": "1",
             "title": "Arts and Crafts Festival",
@@ -175,7 +183,8 @@
         {
             "id": "c7c5",
             "categoryIds": [
-                2
+                6,
+                7
             ],
             "createdBy": "2",
             "title": "Iconic Music Festival",
@@ -188,8 +197,9 @@
         {
             "id": "3e41",
             "categoryIds": [
-                2,
-                3
+                3,
+                4,
+                5
             ],
             "createdBy": "1",
             "title": "Star Gazing",
@@ -202,7 +212,8 @@
         {
             "id": "7aaa",
             "categoryIds": [
-                1
+                1,
+                3
             ],
             "createdBy": "2",
             "title": "Stretch and Tone",
@@ -215,7 +226,9 @@
         {
             "id": "c90d",
             "categoryIds": [
-                1
+                1,
+                4,
+                7
             ],
             "createdBy": "1",
             "title": "Dance with Danny",
@@ -228,7 +241,8 @@
         {
             "id": "2925",
             "categoryIds": [
-                3
+                4,
+                5
             ],
             "createdBy": "1",
             "title": "How to talk in public",
@@ -241,16 +255,36 @@
     ],
     "categories": [
         {
-            "name": "sports",
-            "id": "1"
+            "name": "skill-up",
+            "id": "4"
         },
         {
-            "name": "games",
+            "name": "creativity",
+            "id": "8"
+        },
+        {
+            "name": "festival",
+            "id": "6"
+        },
+        {
+            "name": "game",
             "id": "2"
+        },
+        {
+            "name": "music",
+            "id": "7"
         },
         {
             "name": "relaxation",
             "id": "3"
+        },
+        {
+            "name": "sport",
+            "id": "1"
+        },
+        {
+            "name": "talk",
+            "id": "5"
         }
     ]
 }
