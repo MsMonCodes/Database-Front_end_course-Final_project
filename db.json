@@ -259,15 +259,15 @@
             "id": "4"
         },
         {
-            "name": "creativity",
+            "name": "creative",
             "id": "8"
         },
         {
-            "name": "festival",
+            "name": "festivals",
             "id": "6"
         },
         {
-            "name": "game",
+            "name": "games",
             "id": "2"
         },
         {
@@ -279,11 +279,11 @@
             "id": "3"
         },
         {
-            "name": "sport",
+            "name": "sports",
             "id": "1"
         },
         {
-            "name": "talk",
+            "name": "seminars",
             "id": "5"
         }
     ]
