@@ -255,10 +255,6 @@
     ],
     "categories": [
         {
-            "name": "skill-up",
-            "id": "4"
-        },
-        {
             "name": "creative",
             "id": "8"
         },
@@ -277,6 +273,10 @@
         {
             "name": "relaxation",
             "id": "3"
+        },
+        {
+            "name": "skill-up",
+            "id": "4"
         },
         {
             "name": "sports",
