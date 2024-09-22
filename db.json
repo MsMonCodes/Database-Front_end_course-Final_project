@@ -14,30 +14,30 @@
     "events": [
         {
             "createdBy": "1",
-            "title": "Trampoline party",
-            "description": "Bounce around with your friends",
+            "title": "5th Anniversary Trampoline party",
+            "description": "Celebrate half a decade of fun with us! All ages welcome",
             "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
             "categoryIds": [
                 2,
                 3
             ],
-            "location": "My back yard",
-            "startTime": "2023-03-10T18:00",
-            "endTime": "2023-03-10T17:00",
+            "location": "Jump City",
+            "startTime": "2025-05-04T10:00",
+            "endTime": "2025-05-04T18:00",
             "id": "1"
         },
         {
             "id": "4",
             "createdBy": 2,
-            "title": "Yoga",
-            "description": "It's a bit of a stretch.",
+            "title": "Tranquil Yoga Retreat",
+            "description": "Enhance your inner radiance & absolute tranquility",
             "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
             "categoryIds": [
                 3
             ],
-            "location": "Shavasana Yoga School",
-            "startTime": "2023-03-09T06:00:00.000Z",
-            "endTime": "2023-03-09T07:00:00.000Z"
+            "location": "Drakkensburg Hills Resort",
+            "startTime": "2025-06-06T12:00:00.000Z",
+            "endTime": "2025-06-08T12:00:00.000Z"
         },
         {
             "id": "49dc",
@@ -45,12 +45,12 @@
                 1,
                 3
             ],
-            "startTime": "2024-08-19T17:09",
-            "location": "Amersfoort",
-            "title": "Ricky & Em",
-            "description": "Pop Art",
+            "startTime": "2025-01-11T10:30",
+            "location": "Ricky's garage",
+            "title": "Pop Art master class",
+            "description": "Ricky & Em teach Pop Art (advanced)",
             "image": "https://wallpapers.com/images/featured/cool-design-iphone-b8v9r1l1fejhos6o.jpg",
-            "endTime": "2024-08-19T17:10",
+            "endTime": "2025-01-11T16:30",
             "createdBy": "2"
         },
         {
@@ -60,38 +60,38 @@
                 2
             ],
             "createdBy": "1",
-            "title": "Garararah",
-            "description": "TEST description",
+            "title": "Animation basics",
+            "description": "A class on the basics of animation",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdEn2HXViJoxSJwpZyEUIDVqJdp1hWL4PzQ&s",
-            "location": "Amersfoort",
-            "startTime": "2024-08-19T18:35",
-            "endTime": "2024-08-19T18:35"
+            "location": "The Tin Barn",
+            "startTime": "2025-05-03T10:00",
+            "endTime": "2025-05-03T17:00"
         },
         {
             "id": "ac9c",
             "createdBy": "1",
             "title": "Halloween makeup",
-            "description": "Learn to do your own makeup",
+            "description": "Learn the techniques of SPX makeup",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s8DzcVTEKZJbVEwYkTh6-6lONrHn0j6odg&s",
             "categoryIds": [
                 1
             ],
-            "location": "Amersfoort",
-            "startTime": "2024-08-19T18:37",
-            "endTime": "2024-08-19T18:37"
+            "location": "Makeup Mistress",
+            "startTime": "2025-10-04T12:00",
+            "endTime": "2025-10-04T16:00"
         },
         {
             "id": "78b6",
             "createdBy": "1",
             "title": "Building your own fort",
-            "description": "brick by boring brick",
+            "description": "Brick by boring brick, we'll teach you the tricks to tackling your goals! Join our Ted Talk",
             "image": "https://wallpapercave.com/wp/wp2415826.jpg",
             "categoryIds": [
                 2
             ],
-            "location": "Your back yard",
-            "startTime": "2024-08-21T13:22",
-            "endTime": "2024-09-21T13:22"
+            "location": "The Burton Hall",
+            "startTime": "2024-08-23T18:30",
+            "endTime": "2024-09-23T20:00"
         },
         {
             "id": "06dd",
@@ -100,11 +100,11 @@
             ],
             "createdBy": "1",
             "title": "Two to Tango",
-            "description": "it takes two",
+            "description": "It takes two, so bring a friend and dance with us!",
             "image": "https://www.danceflavors.com/wp-content/uploads/2022/09/tango-pair-dancers-dance-in-ballroom-2022-09-07-16-01-27-utc-scaled.jpg",
-            "location": "Amersfoort",
-            "startTime": "2024-08-26T16:24",
-            "endTime": "2024-08-26T16:24"
+            "location": "Hilton's School of Dance",
+            "startTime": "2024-03-14T19:00",
+            "endTime": "2024-03-14T22:30"
         },
         {
             "id": "b0e5",
@@ -113,12 +113,12 @@
                 2
             ],
             "createdBy": "2",
-            "title": "This is a test, just a test",
-            "description": "peanut butter jelly",
+            "title": "The Truth About Gelatine",
+            "description": "Peanut butter & jelly, and why we enjoy it",
             "image": "https://d1ymz67w5raq8g.cloudfront.net/Pictures/480xAny/4/0/0/520400_shutterstock_35074786_795426.jpg",
-            "location": "Amersfoort ",
-            "startTime": "2024-09-04T17:30",
-            "endTime": "2024-09-04T18:48"
+            "location": "King's Hall",
+            "startTime": "2025-04-26T17:30",
+            "endTime": "2025-04-26T18:30"
         },
         {
             "id": "f046",
@@ -126,25 +126,12 @@
                 2
             ],
             "createdBy": "1",
-            "title": "DinnerAtAte",
-            "description": "power food",
+            "title": "Dinner At Ate",
+            "description": "Power food to fuel you and fill you. Join our cooking class!",
             "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
-            "location": "Amersfoort",
-            "startTime": "2024-09-04T18:58",
-            "endTime": "2024-09-04T18:58"
-        },
-        {
-            "id": "af55",
-            "categoryIds": [
-                2
-            ],
-            "createdBy": "1",
-            "title": "TESTEST",
-            "description": "TESTTEST",
-            "image": "https://acniowa.com/wp-content/uploads/2016/03/test-image.png",
-            "location": "TESTEST",
-            "startTime": "2024-09-04T18:59",
-            "endTime": "2024-09-04T18:59"
+            "location": "Jerry's Kitchen",
+            "startTime": "2025-11-14T18:00",
+            "endTime": "2025-11-14T120:00"
         },
         {
             "id": "1e10",
@@ -153,24 +140,11 @@
             ],
             "createdBy": "1",
             "title": "Marshmallows in March",
-            "description": "Shugah-reigh",
+            "description": "Music festival",
             "image": "https://w7.pngwing.com/pngs/108/26/png-transparent-drawing-disc-jockey-art-music-electro-dj-miscellaneous-purple-smiley-thumbnail.png",
-            "location": "Amersfoort ",
-            "startTime": "2024-09-04T19:10",
-            "endTime": "2024-09-04T19:10"
-        },
-        {
-            "id": "442b",
-            "categoryIds": [
-                2
-            ],
-            "createdBy": "2",
-            "title": "Come Alive",
-            "description": "Dinosaurs and trampolines ",
-            "image": "https://s.alicdn.com/@sc04/kf/H5e2e4bb46434416eacf7463194c040946.png_300x300.jpg",
-            "location": "Amersfoort",
-            "startTime": "2024-09-04T19:16",
-            "endTime": "2024-09-04T19:16"
+            "location": "Arcade Park",
+            "startTime": "2025-03-22T19:00",
+            "endTime": "2025-03-22T23:30"
         },
         {
             "id": "d72c",
@@ -178,12 +152,12 @@
                 2
             ],
             "createdBy": "2",
-            "title": "Forever green",
-            "description": "Let's plant a tree!",
+            "title": "3D Printing - the basics",
+            "description": "Create your own objects",
             "image": "https://img.freepik.com/free-photo/three-dimensional-white-tree_23-2150928677.jpg",
-            "location": "The park ",
-            "startTime": "2024-09-06T19:28",
-            "endTime": "2024-09-04T19:29"
+            "location": "Arty Prints",
+            "startTime": "2025-05-04T10:00",
+            "endTime": "2025-05-04T14:00"
         },
         {
             "id": "63cf",
@@ -192,11 +166,11 @@
             ],
             "createdBy": "1",
             "title": "Arts and Crafts Festival",
-            "description": "Bring out your creative side! ",
+            "description": "Bring out your creative side",
             "image": "https://miro.medium.com/v2/resize:fit:1080/1*YFSHYv9lUR4yRSzK6CRShQ.jpeg",
-            "location": "Juliet Park",
-            "startTime": "2024-11-16T15:30",
-            "endTime": "2024-11-16T20:30"
+            "location": "Art Craft College",
+            "startTime": "2025-10-11T09:00",
+            "endTime": "2025-10-12T18:00"
         },
         {
             "id": "c7c5",
@@ -204,12 +178,12 @@
                 2
             ],
             "createdBy": "2",
-            "title": "The event of the century",
+            "title": "Iconic Music Festival",
             "description": "Limited tickets!",
-            "image": "https://cdn.venngage.com/template/thumbnail/small/37de5deb-1ca7-4e60-b254-374b08708817.webp",
+            "image": "https://www.electronic-festivals.com/sites/default/files/0007_20180623192727_kevin_defqon1_2.jpg",
             "location": "The Old Mill",
-            "startTime": "2024-09-04T20:54",
-            "endTime": "2024-09-05T07:08"
+            "startTime": "2025-09-12T10:00",
+            "endTime": "2025-09-14T20:00"
         },
         {
             "id": "3e41",
@@ -218,12 +192,12 @@
                 3
             ],
             "createdBy": "1",
-            "title": "Star gazing",
-            "description": "look back in time with us",
+            "title": "Star Gazing",
+            "description": "Look back in time with us",
             "image": "https://w0.peakpx.com/wallpaper/1003/127/HD-wallpaper-nature-night-purple-road-sky-stars-thumbnail.jpg",
             "location": "St. Edwards Park",
-            "startTime": "2024-09-05T07:33",
-            "endTime": "2024-09-05T07:33"
+            "startTime": "2025-11-21T21:30",
+            "endTime": "2025-11-21T23:30"
         },
         {
             "id": "7aaa",
@@ -231,12 +205,12 @@
                 1
             ],
             "createdBy": "2",
-            "title": "Stretch and tone",
-            "description": "Stretch with Vicky after your workout",
+            "title": "Stretch and Tone",
+            "description": "Stretch with Vicky after the city's FunRun",
             "image": "https://media.self.com/photos/5fc9104b3258a3c17112570d/4:3/w_2560%2Cc_limit/stretch_body_yoga.jpeg",
             "location": "Vicky Fitness Studio",
-            "startTime": "2024-09-08T17:25",
-            "endTime": "2024-09-15T18:26"
+            "startTime": "2025-07-05T10:15",
+            "endTime": "2025-07-05T11:00"
         },
         {
             "id": "c90d",
@@ -248,8 +222,8 @@
             "description": "Learn to dance with Dan!",
             "image": "https://www.clistudios.com/wp-content/uploads/2021/08/jaquel-knight-hip-hop-1024x683.jpeg",
             "location": "Dance Amsterdam",
-            "startTime": "2024-09-21T18:45",
-            "endTime": "2024-09-21T19:45"
+            "startTime": "2025-08-09T14:00",
+            "endTime": "2024-08-09T15:00"
         },
         {
             "id": "2925",
@@ -261,8 +235,8 @@
             "description": "Learn to master the art of public speaking",
             "image": "https://www.scientifica.uk.com/images/Research-Articles/PublicSpeaking-2hvw8ho.jpg",
             "location": "Tiffany Hall on Jupiter Avenue",
-            "startTime": "2024-09-08T16:45",
-            "endTime": "2024-09-08T17:45"
+            "startTime": "2025-06-14T16:30",
+            "endTime": "2025-06-14T20:00"
         }
     ],
     "categories": [
