@@ -73,9 +73,11 @@
     ],
     "events": [
         {
+            "id": "1",
             "createdBy": "5",
             "title": "5th Anniversary of LaserTag Arcade!",
             "description": "Celebrate half a decade of fun with us! All ages welcome",
+            "paragraph": "Join us at LaserTag Arcade's 5th Anniversary! Celebrate half a decade of thrilling fun for all ages. Don’t miss out on this special event filled with excitement and surprises!",
             "image": "https://lasertag-covilha.pt/wp-content/uploads/2019/03/team-building.jpg",
             "categoryIds": [
                 502,
@@ -83,14 +85,14 @@
             ],
             "location": "LaserTag Arcade",
             "startTime": "2025-05-04T10:00",
-            "endTime": "2025-05-04T18:00",
-            "id": "1"
+            "endTime": "2025-05-04T18:00"
         },
         {
             "id": "5",
             "createdBy": "9",
             "title": "Tranquil Yoga Retreat",
             "description": "Enhance your inner radiance & absolute tranquility",
+            "paragraph": "Find peace and balance at the Tranquil Yoga Retreat. Enhance your inner radiance with yoga sessions that promote absolute tranquility and rejuvenation. Ideal for all levels.",
             "image": "https://media.self.com/photos/5fc9104b3258a3c17112570d/4:3/w_2560%2Cc_limit/stretch_body_yoga.jpeg",
             "categoryIds": [
                 505,
@@ -102,29 +104,31 @@
         },
         {
             "id": "49dc",
+            "createdBy": "14",
+            "title": "Pop Art masterclass",
+            "description": "Learn the techniques of creating pop art",
+            "paragraph": "Dive into the vibrant world of Pop Art. Learn essential techniques to create eye-catching pieces and explore this iconic art style in depth. Perfect for creative enthusiasts.",
+            "image": "https://img.freepik.com/free-vector/pop-art-beautiful-surprised-lady_225004-847.jpg?t=st=1727103087~exp=1727106687~hmac=11196ed88b9fcc7113915abcfaeb0c2664320308bd26fc985d557db413245c8e&w=996",
             "categoryIds": [
                 500,
                 507
             ],
-            "startTime": "2025-01-11T10:30",
             "location": "Design & Arts College",
-            "title": "Pop Art masterclass (advanced)",
-            "description": "Learn the techniques of creating pop art",
-            "image": "https://img.freepik.com/free-vector/pop-art-beautiful-surprised-lady_225004-847.jpg?t=st=1727103087~exp=1727106687~hmac=11196ed88b9fcc7113915abcfaeb0c2664320308bd26fc985d557db413245c8e&w=996",
-            "endTime": "2025-01-11T16:30",
-            "createdBy": "14"
+            "startTime": "2025-01-11T10:30",
+            "endTime": "2025-01-11T17:30"
         },
         {
             "id": "a6ba",
+            "createdBy": "14",
+            "title": "Animation Basics",
+            "description": "A workshop on the basics of animation",
+            "paragraph": "Discover the fundamentals of animation in this introductory workshop. Learn basic techniques and tools to bring your creative ideas to life, perfect for aspiring animators.",
+            "image": "https://cdn.pixabay.com/photo/2024/04/20/14/40/ai-generated-8708710_640.jpg",
             "categoryIds": [
                 500,
                 506,
                 507
             ],
-            "createdBy": "14",
-            "title": "Animation basics",
-            "description": "A workshop on the basics of animation",
-            "image": "https://cdn.pixabay.com/photo/2024/04/20/14/40/ai-generated-8708710_640.jpg",
             "location": "The Tin Barn",
             "startTime": "2025-05-03T10:00",
             "endTime": "2025-05-03T17:00"
@@ -134,6 +138,7 @@
             "createdBy": "3",
             "title": "Halloween makeup",
             "description": "Learn the techniques of SPX makeup",
+            "paragraph": "Get ready for Halloween with this SPX makeup workshop at Makeup Mistress. Learn professional techniques to create stunning and spooky effects.",
             "image": "https://img.freepik.com/free-photo/girl-dressed-as-zombie-wearing-mask_23-2147702015.jpg?t=st=1727102730~exp=1727106330~hmac=aab9695e901f2361f164d7638615a515aefb8606a1b6a222bc1560af56652461&w=740",
             "categoryIds": [
                 500,
@@ -146,9 +151,10 @@
         {
             "id": "78b6",
             "createdBy": "13",
-            "title": "Building Your Own Fort",
-            "description": "Brick by boring brick, we'll teach you the tricks to tackling your goals!",
-            "image": "https://img.freepik.com/free-photo/view-imposing-castle-with-natural-landscape_23-2150321349.jpg?t=st=1727102651~exp=1727106251~hmac=b82f1fe7d87873481ad5575d46a9a1c7b4bf78ee845dec6a09f40bfca513ee59&w=740",
+            "title": "Achieve Your Goals: A Success Mindset",
+            "description": "Master your mindset for unstoppable success!",
+            "paragraph": "Join us for an inspiring talk on achieving your goals with a success mindset. Discover techniques to stay focused, motivated, and unstoppable in your personal and professional journey.",
+            "image": "https://img.freepik.com/free-photo/motivational-handwriting-notebook_1357-263.jpg?t=st=1727110988~exp=1727114588~hmac=2eaf1ba4acec0986f5caaf9bae907e50e3413db01455c82a57cf4dd195b6fb9d&w=996",
             "categoryIds": [
                 506
             ],
@@ -158,73 +164,83 @@
         },
         {
             "id": "06dd",
+            "createdBy": "7",
+            "title": "Two to Tango",
+            "description": "It takes two, so bring your partner and dance with us!",
+            "paragraph": "Join us at Hilton's School of Dance for a lively evening of Tango. Bring a partner and learn the steps to this passionate dance, perfect for all skill levels. Don’t miss the fun!",
+            "image": "https://www.danceflavors.com/wp-content/uploads/2022/09/tango-pair-dancers-dance-in-ballroom-2022-09-07-16-01-27-utc-scaled.jpg",
             "categoryIds": [
                 508
             ],
-            "createdBy": "7",
-            "title": "Two to Tango",
-            "description": "It takes two, so bring a friend and dance with us!",
-            "image": "https://www.danceflavors.com/wp-content/uploads/2022/09/tango-pair-dancers-dance-in-ballroom-2022-09-07-16-01-27-utc-scaled.jpg",
             "location": "Hilton's School of Dance",
             "startTime": "2024-03-14T18:00",
             "endTime": "2024-03-14T22:30"
         },
         {
             "id": "b0e5",
-            "categoryIds": [
-                501
-            ],
             "createdBy": "1",
             "title": "The Power of Texture Exhibition",
             "description": "Europe's most talented artists showcase their work.",
+            "paragraph": "Explore the world of texture. This exhibition features works by Europe's top artists, showcasing innovative use of materials and techniques. A must-see for art enthusiasts.",
             "image": "https://img.freepik.com/free-photo/digital-art-inmersive-exhibition_23-2151428549.jpg?t=st=1727102256~exp=1727105856~hmac=a26973394a941dbc1a95a82562b547f95ad267bbb8ec2b48ca3e584653b24b8f&w=740",
+            "categoryIds": [
+                501
+            ],
             "location": "King's Hall",
             "startTime": "2025-04-26T17:30",
             "endTime": "2025-04-26T18:30"
         },
         {
             "id": "f046",
+            "createdBy": "8",
+            "title": "Dinner At Ate: Power Foods",
+            "description": "A power food cooking class to fuel you and fill you.",
+            "paragraph": "Learn to cook delicious, nutritious meals at Dinner At Ate. This hands-on class for health enthusiasts looking to master new recipes and culinary skills. We'll eat what we made at 8!",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
             "categoryIds": [
                 507
             ],
-            "createdBy": "8",
-            "title": "Dinner At Ate",
-            "description": "Power food to fuel you and fill you. Join our cooking class!",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
-            "location": "Jerry's Kitchen",
-            "startTime": "2025-11-14T20:00",
-            "endTime": "2025-11-14T122:00"
+            "location": "Dinner At Ate",
+            "startTime": "2025-11-14T18:00",
+            "endTime": "2025-11-14T121:00"
         },
         {
             "id": "1e10",
+            "createdBy": "2",
+            "title": "Marshmallows in March",
+            "description": "Music festival",
+            "paragraph": "Experience international Djs, live at Marshmallows in March, a vibrant music festival at Arcade Park. Don’t miss out on the biggest event of the year!",
+            "image": "https://w7.pngwing.com/pngs/108/26/png-transparent-drawing-disc-jockey-art-music-electro-dj-miscellaneous-purple-smiley-thumbnail.png",
             "categoryIds": [
                 503,
                 504
             ],
-            "createdBy": "2",
-            "title": "Marshmallows in March",
-            "description": "Music festival",
-            "image": "https://w7.pngwing.com/pngs/108/26/png-transparent-drawing-disc-jockey-art-music-electro-dj-miscellaneous-purple-smiley-thumbnail.png",
             "location": "Arcade Park",
             "startTime": "2025-03-22T19:00",
             "endTime": "2025-03-22T23:30"
         },
         {
             "id": "d72c",
+            "createdBy": "11",
+            "title": "3D Printing Workshop",
+            "description": "Create your own objects",
+            "paragraph": "Join us for a hands-on 3D Printing Workshop! Learn how to design and print your own objects, perfect for creative minds eager to explore the world of 3D printing.",
+            "image": "https://img.freepik.com/free-photo/technology-equipment-blue-laboratory-generated-by-ai_188544-19546.jpg?ga=GA1.1.2027944625.1727091464&semt=ais_hybrid",
             "categoryIds": [
                 500,
                 507
             ],
-            "createdBy": "11",
-            "title": "3D Printing Workshop",
-            "description": "Create your own objects",
-            "image": "https://img.freepik.com/free-photo/technology-equipment-blue-laboratory-generated-by-ai_188544-19546.jpg?ga=GA1.1.2027944625.1727091464&semt=ais_hybrid",
             "location": "Arty Prints",
             "startTime": "2025-05-04T10:00",
             "endTime": "2025-05-04T14:00"
         },
         {
             "id": "63cf",
+            "createdBy": "1",
+            "title": "Arts and Crafts Festival",
+            "description": "Bring out your creative side",
+            "paragraph": "Unleash your creativity at the Arts and Crafts Festival! From painting to pottery, explore various workshops and exhibits. Perfect for artists and hobbyists of all skill levels.",
+            "image": "https://miro.medium.com/v2/resize:fit:1080/1*YFSHYv9lUR4yRSzK6CRShQ.jpeg",
             "categoryIds": [
                 500,
                 501,
@@ -232,91 +248,93 @@
                 503,
                 507
             ],
-            "createdBy": "1",
-            "title": "Arts and Crafts Festival",
-            "description": "Bring out your creative side",
-            "image": "https://miro.medium.com/v2/resize:fit:1080/1*YFSHYv9lUR4yRSzK6CRShQ.jpeg",
             "location": "Art Craft College",
             "startTime": "2025-10-11T09:00",
             "endTime": "2025-10-12T18:00"
         },
         {
             "id": "c7c5",
+            "createdBy": "2",
+            "title": "Iconic Music Festival",
+            "description": "Limited tickets!",
+            "paragraph": "Experience electrifying performances at the Iconic Music Festival. Enjoy top artists and bands. Don't miss out - grab your tickets now for an unforgettable lineup!",
+            "image": "https://www.electronic-festivals.com/sites/default/files/0007_20180623192727_kevin_defqon1_2.jpg",
             "categoryIds": [
                 503,
                 504
             ],
-            "createdBy": "2",
-            "title": "Iconic Music Festival",
-            "description": "Limited tickets!",
-            "image": "https://www.electronic-festivals.com/sites/default/files/0007_20180623192727_kevin_defqon1_2.jpg",
             "location": "The Old Mill",
             "startTime": "2025-09-12T10:00",
             "endTime": "2025-09-14T20:00"
         },
         {
             "id": "3e41",
-            "categoryIds": [
-                507
-            ],
             "createdBy": "12",
             "title": "Star Gazing",
             "description": "Look back in time with us",
+            "paragraph": "Explore the cosmos! Enjoy a night under the stars, learning about constellations and celestial bodies. Perfect for astronomy enthusiasts and curious minds.",
             "image": "https://img.freepik.com/free-photo/view-starry-night-sky-with-nature-mountains-landscape_23-2151614803.jpg?t=st=1727101906~exp=1727105506~hmac=0fe7392d9e75a862c7c47024e6ca9836a94839ac1982c59cea19d51d1f9770bf&w=1380",
+            "categoryIds": [
+                507
+            ],
             "location": "St. Edwards Park",
             "startTime": "2025-11-21T21:30",
             "endTime": "2025-11-21T23:30"
         },
         {
             "id": "7aaa",
+            "createdBy": "5",
+            "title": "10KM Marathon",
+            "description": "Race with your city and finish strong!",
+            "paragraph": "Join the 10 KM Marathon, starting at Downtown Plaza. Challenge yourself to finish strong and enjoy a day of fitness and community spirit.",
+            "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
             "categoryIds": [
                 505,
                 508
             ],
-            "createdBy": "5",
-            "title": "Stretch and Tone",
-            "description": "Stretch with Vicky after the city's FunRun",
-            "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
             "location": "Vicky Fitness Studio",
             "startTime": "2025-07-05T10:15",
             "endTime": "2025-07-05T11:00"
         },
         {
             "id": "c90d",
+            "createdBy": "10",
+            "title": "Dance with Danny",
+            "description": "Learn to dance with Dan!",
+            "paragraph": "Learn the techniques of Hiphop with our guest teacher, Danny! Perfect for beginners and enthusiasts alike. A lively session to boost your skills and confidence on the dance floor.",
+            "image": "https://www.clistudios.com/wp-content/uploads/2021/08/jaquel-knight-hip-hop-1024x683.jpeg",
             "categoryIds": [
                 507,
                 508
             ],
-            "createdBy": "10",
-            "title": "Dance with Danny",
-            "description": "Learn to dance with Dan!",
-            "image": "https://www.clistudios.com/wp-content/uploads/2021/08/jaquel-knight-hip-hop-1024x683.jpeg",
             "location": "Dance Amsterdam",
             "startTime": "2025-08-09T14:00",
             "endTime": "2024-08-09T15:00"
         },
         {
             "id": "2925",
-            "categoryIds": [
-                506
-            ],
             "createdBy": "6",
             "title": "How to talk in public",
             "description": "Learn to master the art of public speaking",
+            "paragraph": "Boost your confidence with this workshop! Learn techniques to engage and inspire your audience. Perfect for those looking to enhance their speaking skills and confidence.",
             "image": "https://www.scientifica.uk.com/images/Research-Articles/PublicSpeaking-2hvw8ho.jpg",
+            "categoryIds": [
+                506
+            ],
             "location": "Tiffany Hall on Jupiter Avenue",
             "startTime": "2025-06-14T16:30",
             "endTime": "2025-06-14T20:00"
         },
         {
             "id": "29p5",
-            "categoryIds": [
-                502
-            ],
             "createdBy": "4",
             "title": "Cherry Picking",
             "description": "Pick all the cherries you'd like!",
+            "paragraph": "Enjoy a day of fresh air and fun at Jack's Plum & Cherry Farm! Pick as many cherries as you like, a perfect outing for families and fruit lovers. Don't miss out on this SWEET experience!",
             "image": "https://cdn.pixabay.com/photo/2016/12/17/18/50/cherry-1914118_640.jpg",
+            "categoryIds": [
+                502
+            ],
             "location": "Jack's Plum & Cherry Farm",
             "startTime": "2025-04-27T07:00",
             "endTime": "2025-04-27T16:00"
