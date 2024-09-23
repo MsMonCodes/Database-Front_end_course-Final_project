@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Annelies Van Aarle",
-            "image": "https://images.unsplash.com/photo-1525786210598-d527194d3e9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg5fHxwZXJzb24lMjBmYWNlfGVufDB8fDB8fHwy"
+            "image": "https://img.freepik.com/free-photo/portrait-beautiful-european-woman-having-dark-hair-tied-looking-with-her-brown-big-eyes-gentle-smile-isolated_273609-8041.jpg?ga=GA1.1.2027944625.1727091464&semt=ais_hybrid"
         },
         {
             "id": "2",
@@ -12,33 +12,33 @@
         },
         {
             "id": "3",
+            "name": "Cecilia Yonker",
+            "image": "https://img.freepik.com/free-photo/portrait-lovely-young-looks-with-friendly-happy-expression-camera-expresses-positive-emotions-being-good-mood-dressed-casually-isolated-green-vivid-wall_273609-47968.jpg?t=st=1727106955~exp=1727110555~hmac=bd678fc7fdcc0dc4c99d841c0b43b4c0c4d2fdc8afb26dc713c8e9a375ed8bac&w=996"
+        },
+        {
+            "id": "4",
             "name": "Dawson Kidd",
             "image": "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=1923&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-            "id": "4",
+            "id": "5",
             "name": "Denise Killam",
             "image": "https://images.unsplash.com/photo-1592621385612-4d7129426394?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-            "id": "5",
+            "id": "6",
             "name": "Febe Stetson",
             "image": "https://images.unsplash.com/photo-1635713150362-ed0cd425e697?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA4fHxwZXJzb24lMjBmYWNlfGVufDB8fDB8fHwy"
         },
         {
-            "id": "6",
+            "id": "7",
             "name": "Leroy Jennings",
             "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHBlcnNvbiUyMGZhY2UlMjBtYW58ZW58MHx8MHx8fDI%3D"
         },
         {
-            "id": "7",
-            "name": "Lesego Kenyatta",
-            "image": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fHBlcnNvbiUyMGZhY2V8ZW58MHx8MHx8fDI%3D"
-        },
-        {
             "id": "8",
-            "name": "Lungile Mwangi",
-            "image": "https://images.unsplash.com/photo-1583822419264-f405c079a27c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgzfHxwZXJzb24lMjBmYWNlfGVufDB8fDB8fHwy"
+            "name": "Lesego Kenyatta",
+            "image": "https://media.istockphoto.com/id/1491498069/photo/young-black-woman-standing-with-her-arms-crossed-laughing-looking-at-the-camera-wearing.jpg?s=612x612&w=0&k=20&c=mjgVnzPYI7w-UnXJCtDY_4eqjHjLfhFMtmqIuBDCsMQ="
         },
         {
             "id": "9",
@@ -52,8 +52,8 @@
         },
         {
             "id": "11",
-            "name": "Ravinder Sherazi",
-            "image": "https://images.unsplash.com/photo-1725028748781-7adb1df9a943?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHx8Mg%3D%3D"
+            "name": "Éric Favreau",
+            "image": "https://cdn.pixabay.com/photo/2019/10/22/13/43/portrait-4568762_1280.jpg"
         },
         {
             "id": "12",
@@ -68,33 +68,33 @@
         {
             "id": "14",
             "name": "Wesley Morris",
-            "image": "https://images.unsplash.com/photo-1707139743543-590aeb0437d8?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxwZXJzb24lMjBmYWNlJTIwbWFufGVufDB8fDB8fHwy"
+            "image": "https://img.freepik.com/free-photo/smiling-man-white-t-shirt-gray-background_23-2148113914.jpg?ga=GA1.1.2027944625.1727091464&semt=ais_hybrid"
         }
     ],
     "events": [
         {
-            "createdBy": "4",
-            "title": "5th Anniversary: Trampoline party",
+            "createdBy": "5",
+            "title": "5th Anniversary of LaserTag Arcade!",
             "description": "Celebrate half a decade of fun with us! All ages welcome",
-            "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
+            "image": "https://lasertag-covilha.pt/wp-content/uploads/2019/03/team-building.jpg",
             "categoryIds": [
-                1,
-                2
+                502,
+                508
             ],
-            "location": "Jump City",
+            "location": "LaserTag Arcade",
             "startTime": "2025-05-04T10:00",
             "endTime": "2025-05-04T18:00",
             "id": "1"
         },
         {
-            "id": "4",
+            "id": "5",
             "createdBy": "9",
             "title": "Tranquil Yoga Retreat",
             "description": "Enhance your inner radiance & absolute tranquility",
-            "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
+            "image": "https://media.self.com/photos/5fc9104b3258a3c17112570d/4:3/w_2560%2Cc_limit/stretch_body_yoga.jpeg",
             "categoryIds": [
-                1,
-                3
+                505,
+                508
             ],
             "location": "Drakkensburg Hills Resort",
             "startTime": "2025-06-06T12:00:00.000Z",
@@ -103,40 +103,41 @@
         {
             "id": "49dc",
             "categoryIds": [
-                4,
-                8
+                500,
+                507
             ],
             "startTime": "2025-01-11T10:30",
-            "location": "Ricky's garage",
-            "title": "Pop Art master class",
-            "description": "Ricky & Em teach Pop Art (advanced)",
-            "image": "https://wallpapers.com/images/featured/cool-design-iphone-b8v9r1l1fejhos6o.jpg",
+            "location": "Design & Arts College",
+            "title": "Pop Art masterclass (advanced)",
+            "description": "Learn the techniques of creating pop art",
+            "image": "https://img.freepik.com/free-vector/pop-art-beautiful-surprised-lady_225004-847.jpg?t=st=1727103087~exp=1727106687~hmac=11196ed88b9fcc7113915abcfaeb0c2664320308bd26fc985d557db413245c8e&w=996",
             "endTime": "2025-01-11T16:30",
             "createdBy": "14"
         },
         {
             "id": "a6ba",
             "categoryIds": [
-                4,
-                8
+                500,
+                506,
+                507
             ],
             "createdBy": "14",
             "title": "Animation basics",
-            "description": "A class on the basics of animation",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdEn2HXViJoxSJwpZyEUIDVqJdp1hWL4PzQ&s",
+            "description": "A workshop on the basics of animation",
+            "image": "https://cdn.pixabay.com/photo/2024/04/20/14/40/ai-generated-8708710_640.jpg",
             "location": "The Tin Barn",
             "startTime": "2025-05-03T10:00",
             "endTime": "2025-05-03T17:00"
         },
         {
             "id": "ac9c",
-            "createdBy": "8",
+            "createdBy": "3",
             "title": "Halloween makeup",
             "description": "Learn the techniques of SPX makeup",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s8DzcVTEKZJbVEwYkTh6-6lONrHn0j6odg&s",
+            "image": "https://img.freepik.com/free-photo/girl-dressed-as-zombie-wearing-mask_23-2147702015.jpg?t=st=1727102730~exp=1727106330~hmac=aab9695e901f2361f164d7638615a515aefb8606a1b6a222bc1560af56652461&w=740",
             "categoryIds": [
-                4,
-                8
+                500,
+                507
             ],
             "location": "Makeup Mistress",
             "startTime": "2025-10-04T12:00",
@@ -145,11 +146,11 @@
         {
             "id": "78b6",
             "createdBy": "13",
-            "title": "Building your own fort",
+            "title": "Building Your Own Fort",
             "description": "Brick by boring brick, we'll teach you the tricks to tackling your goals!",
-            "image": "https://wallpapercave.com/wp/wp2415826.jpg",
+            "image": "https://img.freepik.com/free-photo/view-imposing-castle-with-natural-landscape_23-2150321349.jpg?t=st=1727102651~exp=1727106251~hmac=b82f1fe7d87873481ad5575d46a9a1c7b4bf78ee845dec6a09f40bfca513ee59&w=740",
             "categoryIds": [
-                5
+                506
             ],
             "location": "The Burton Hall",
             "startTime": "2024-08-23T18:30",
@@ -158,12 +159,9 @@
         {
             "id": "06dd",
             "categoryIds": [
-                1,
-                4,
-                7,
-                8
+                508
             ],
-            "createdBy": "6",
+            "createdBy": "7",
             "title": "Two to Tango",
             "description": "It takes two, so bring a friend and dance with us!",
             "image": "https://www.danceflavors.com/wp-content/uploads/2022/09/tango-pair-dancers-dance-in-ballroom-2022-09-07-16-01-27-utc-scaled.jpg",
@@ -174,13 +172,12 @@
         {
             "id": "b0e5",
             "categoryIds": [
-                3,
-                8
+                501
             ],
             "createdBy": "1",
             "title": "The Power of Texture Exhibition",
-            "description": "Discover the work of Europe's most talented artists as they showcase their work.",
-            "image": "https://plus.unsplash.com/premium_photo-1706561067817-244f5fc28c7f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fGFydCUyMGV4aGliaXRpb258ZW58MHx8MHx8fDA%3D",
+            "description": "Europe's most talented artists showcase their work.",
+            "image": "https://img.freepik.com/free-photo/digital-art-inmersive-exhibition_23-2151428549.jpg?t=st=1727102256~exp=1727105856~hmac=a26973394a941dbc1a95a82562b547f95ad267bbb8ec2b48ca3e584653b24b8f&w=740",
             "location": "King's Hall",
             "startTime": "2025-04-26T17:30",
             "endTime": "2025-04-26T18:30"
@@ -188,22 +185,21 @@
         {
             "id": "f046",
             "categoryIds": [
-                3,
-                4
+                507
             ],
-            "createdBy": "7",
+            "createdBy": "8",
             "title": "Dinner At Ate",
             "description": "Power food to fuel you and fill you. Join our cooking class!",
             "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
             "location": "Jerry's Kitchen",
-            "startTime": "2025-11-14T18:00",
-            "endTime": "2025-11-14T120:00"
+            "startTime": "2025-11-14T20:00",
+            "endTime": "2025-11-14T122:00"
         },
         {
             "id": "1e10",
             "categoryIds": [
-                6,
-                7
+                503,
+                504
             ],
             "createdBy": "2",
             "title": "Marshmallows in March",
@@ -216,13 +212,13 @@
         {
             "id": "d72c",
             "categoryIds": [
-                4,
-                8
+                500,
+                507
             ],
             "createdBy": "11",
-            "title": "3D Printing - the basics",
+            "title": "3D Printing Workshop",
             "description": "Create your own objects",
-            "image": "https://img.freepik.com/free-photo/three-dimensional-white-tree_23-2150928677.jpg",
+            "image": "https://img.freepik.com/free-photo/technology-equipment-blue-laboratory-generated-by-ai_188544-19546.jpg?ga=GA1.1.2027944625.1727091464&semt=ais_hybrid",
             "location": "Arty Prints",
             "startTime": "2025-05-04T10:00",
             "endTime": "2025-05-04T14:00"
@@ -230,10 +226,13 @@
         {
             "id": "63cf",
             "categoryIds": [
-                6,
-                8
+                500,
+                501,
+                502,
+                503,
+                507
             ],
-            "createdBy": "5",
+            "createdBy": "1",
             "title": "Arts and Crafts Festival",
             "description": "Bring out your creative side",
             "image": "https://miro.medium.com/v2/resize:fit:1080/1*YFSHYv9lUR4yRSzK6CRShQ.jpeg",
@@ -244,10 +243,10 @@
         {
             "id": "c7c5",
             "categoryIds": [
-                6,
-                7
+                503,
+                504
             ],
-            "createdBy": "10",
+            "createdBy": "2",
             "title": "Iconic Music Festival",
             "description": "Limited tickets!",
             "image": "https://www.electronic-festivals.com/sites/default/files/0007_20180623192727_kevin_defqon1_2.jpg",
@@ -258,14 +257,12 @@
         {
             "id": "3e41",
             "categoryIds": [
-                3,
-                4,
-                5
+                507
             ],
             "createdBy": "12",
             "title": "Star Gazing",
             "description": "Look back in time with us",
-            "image": "https://w0.peakpx.com/wallpaper/1003/127/HD-wallpaper-nature-night-purple-road-sky-stars-thumbnail.jpg",
+            "image": "https://img.freepik.com/free-photo/view-starry-night-sky-with-nature-mountains-landscape_23-2151614803.jpg?t=st=1727101906~exp=1727105506~hmac=0fe7392d9e75a862c7c47024e6ca9836a94839ac1982c59cea19d51d1f9770bf&w=1380",
             "location": "St. Edwards Park",
             "startTime": "2025-11-21T21:30",
             "endTime": "2025-11-21T23:30"
@@ -273,13 +270,13 @@
         {
             "id": "7aaa",
             "categoryIds": [
-                1,
-                3
+                505,
+                508
             ],
-            "createdBy": "4",
+            "createdBy": "5",
             "title": "Stretch and Tone",
             "description": "Stretch with Vicky after the city's FunRun",
-            "image": "https://media.self.com/photos/5fc9104b3258a3c17112570d/4:3/w_2560%2Cc_limit/stretch_body_yoga.jpeg",
+            "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
             "location": "Vicky Fitness Studio",
             "startTime": "2025-07-05T10:15",
             "endTime": "2025-07-05T11:00"
@@ -287,9 +284,8 @@
         {
             "id": "c90d",
             "categoryIds": [
-                1,
-                4,
-                7
+                507,
+                508
             ],
             "createdBy": "10",
             "title": "Dance with Danny",
@@ -302,8 +298,7 @@
         {
             "id": "2925",
             "categoryIds": [
-                4,
-                5
+                506
             ],
             "createdBy": "6",
             "title": "How to talk in public",
@@ -316,12 +311,12 @@
         {
             "id": "29p5",
             "categoryIds": [
-                2
+                502
             ],
-            "createdBy": "3",
+            "createdBy": "4",
             "title": "Cherry Picking",
             "description": "Pick all the cherries you'd like!",
-            "image": "https://www.stemilt.com/wp-content/uploads/2016/07/Cherries-stack-sol-dark.png",
+            "image": "https://cdn.pixabay.com/photo/2016/12/17/18/50/cherry-1914118_640.jpg",
             "location": "Jack's Plum & Cherry Farm",
             "startTime": "2025-04-27T07:00",
             "endTime": "2025-04-27T16:00"
@@ -330,35 +325,39 @@
     "categories": [
         {
             "name": "creative",
-            "id": "8"
+            "id": "500"
         },
         {
-            "name": "festivals",
-            "id": "6"
+            "name": "exhibition",
+            "id": "501"
         },
         {
-            "name": "games",
-            "id": "2"
+            "name": "family",
+            "id": "502"
+        },
+        {
+            "name": "festival",
+            "id": "503"
         },
         {
             "name": "music",
-            "id": "7"
+            "id": "504"
         },
         {
             "name": "relaxation",
-            "id": "3"
+            "id": "505"
         },
         {
-            "name": "skill-up",
-            "id": "4"
+            "name": "seminar",
+            "id": "506"
+        },
+        {
+            "name": "workshop",
+            "id": "507"
         },
         {
             "name": "sports",
-            "id": "1"
-        },
-        {
-            "name": "seminars",
-            "id": "5"
+            "id": "508"
         }
     ]
 }
