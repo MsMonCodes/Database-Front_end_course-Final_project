@@ -273,7 +273,7 @@
             "title": "Star Gazing",
             "description": "Look back in time with us",
             "paragraph": "Explore the cosmos! Enjoy a night under the stars, learning about constellations and celestial bodies. Perfect for astronomy enthusiasts and curious minds.",
-            "image": "https://img.freepik.com/free-photo/view-starry-night-sky-with-nature-mountains-landscape_23-2151614803.jpg?t=st=1727101906~exp=1727105506~hmac=0fe7392d9e75a862c7c47024e6ca9836a94839ac1982c59cea19d51d1f9770bf&w=1380",
+            "image": "https://d1l57x9nwbbkz.cloudfront.net/files/s3fs-public/styles/article_masthead/public/2021-09/Stargazing_LennoxAddington.jpg.webp?VersionId=nLfcov4CdJtLMmG5tBKKEsKRD9Q3n0pa&itok=-x9lzvtr",
             "categoryIds": [
                 507
             ],
@@ -338,6 +338,21 @@
             "location": "Jack's Plum & Cherry Farm",
             "startTime": "2025-04-27T07:00",
             "endTime": "2025-04-27T16:00"
+        },
+        {
+            "id": "14e5",
+            "createdBy": "9",
+            "title": "If Handstands were a Superpower!",
+            "description": "Learn the techniques of performing perfect handstands!",
+            "paragraph": "A handstand class combines fun and fitness, with playful exercises, partner challenges, and balance games. Build strength while laughing, learning to flip upside down with confidence and creativity!",
+            "image": "https://circusfactorycork.com/wp-content/uploads/2023/11/Haj-Handstands-cropped.jpg",
+            "categoryIds": [
+                502,
+                508
+            ],
+            "location": "Silverton Park",
+            "startTime": "2025-02-15T10:00",
+            "endTime": "2025-02-15T11:00"
         }
     ],
     "categories": [
